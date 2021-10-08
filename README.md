@@ -5,7 +5,7 @@
 
 &emsp;&emsp;本文档采用[Markdown](http://www.markdown.cn/)语言编写。
 ## 二、函数图像及最优解表达式
-![avatar](pic/fig.png)
+![fx](pic/fig.png)
 <center>图2-1 函数图像</center>
 
 $$
@@ -35,7 +35,7 @@ x=\frac{1-\sqrt{91}}{3}\approx-2.84646400
 $$
 ## 三、外推内插法确定单谷区间
 <center>表3-1 不同起点与步长时外推内插法确定的单谷区间</center>
-![avatar](pic/tab.png)
+![tab](pic/tab.png)
 
 &emsp;&emsp;不同起点与步长时外推内插法确定的单谷区间如表3-1所示
 
