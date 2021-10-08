@@ -35,7 +35,7 @@ x=\frac{1-\sqrt{91}}{3}\approx-2.84646400
 $$
 ## 三、外推内插法确定单谷区间
 <center>表3-1 不同起点与步长时外推内插法确定的单谷区间</center>
-![tab](https://raw.githubusercontent.com/W-Geong/SCUT-opt_calc_21/main/pic/tab.png)
+![image](https://raw.githubusercontent.com/W-Geong/SCUT-opt_calc_21/main/pic/tab.png)
 
 &emsp;&emsp;不同起点与步长时外推内插法确定的单谷区间如表3-1所示
 
