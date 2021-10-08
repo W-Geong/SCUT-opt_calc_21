@@ -8,7 +8,9 @@
 ![avatar](pic/fig.png)
 <center>图2-1 函数图像</center>
 
-![](http://latex.codecogs.com/svg.latex?f(x)=x^3-x^2-30x)
+$$
+f(x)=x^3-x^2-30x)
+$$
 &emsp;&emsp;对$f(x)$求导可得：
 $$
 f'(x)=3x^2-2x-30
